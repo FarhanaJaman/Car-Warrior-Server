@@ -1,10 +1,10 @@
 # Welcome to "CAR WARRIOR SERVER REPOSITORY"
 
-## Car Warrior [Live Site Link](https://bike-warrior-sumon6638.web.app/)
+## Car Warrior [Live Site Link](https://car-warrior-farhana-jaman.netlify.app/)
 
-## [Client Side Repository Link](https://github.com/sumon6638-sm/car-warrior)
+## [Client Side Repository Link](https://github.com/FarhanaJaman/Car-Warrior)
 
-## [Server Side Repository Link](https://github.com/sumon6638-sm/car-warrior-server)
+## [Server Side Repository Link](https://github.com/FarhanaJaman/Car-Warrior-Server)
 
 ### In this website i use (Server Side):
 <p align="center">
